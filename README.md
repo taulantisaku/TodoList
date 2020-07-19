@@ -1,4 +1,4 @@
-#Learning purposes
+
 
 This small project was used for educational purposes based on an youtube crash course tutorial about Angular.
 
