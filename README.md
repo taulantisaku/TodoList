@@ -1,3 +1,7 @@
+#Learning purposes
+
+This small project was used for educational purposes based on an youtube crash course tutorial about Angular.
+
 # AngularTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
